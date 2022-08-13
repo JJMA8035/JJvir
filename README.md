@@ -1,5 +1,5 @@
 # JJvir
-AUTOR: Juan José Morales AGuilar
+AUTOR: Juan José Morales Aguilar
 juan.moralesa@uadeo.mx
 
 JJvir repository of pipeline
