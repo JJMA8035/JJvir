@@ -31,6 +31,9 @@ conda env create -f JJvir.yml
 It required kaiju virus database
 Download and install in  folder
 ~/miniconda3/envs/JJvir/opt/kaijudb/viruses/
+
 It require blast db
 Download and install in folder
 ~/miniconda3/envs/JJvir/opt/blastdb/
+
+It require to download the script viralplot.py to the folder ~/miniconda3/envs/JJvir/bin/
